@@ -1,0 +1,23 @@
+{
+  "name": "nodegraph",
+  "main": "app.js",
+  "author": "Henrique Lopes <contato@henriquelopes.com.br> (https://henriquelopes.com.br)",
+  "version": "1.0.0",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "express": "^4.13.1",
+    "nodemon": "^1.4.0",
+    "open-graph-scraper": "^1.0.1",
+    "supertest": "^1.0.1"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.5"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "license": "ISC",
+  "description": ""
+}
